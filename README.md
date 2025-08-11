@@ -1,6 +1,3 @@
-# LocalAdmin
-주민센터 관리자를 위한 페이지입니다.
-
 # 주민센터 관리자 대시보드 스프링 프로젝트 (Java + Spring Legacy + Oracle)
 
 
